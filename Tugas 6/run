@@ -1,0 +1,1 @@
+g++ -o main main.cpp circle.cpp Color.cpp LineDrawer.cpp Point.cpp Screen.cpp shape.cpp -std=c++11
